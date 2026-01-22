@@ -4,10 +4,21 @@ This repository contains 2D mechanical drawings created using AutoCAD
 as part of my BTech Mechanical Engineering practice.
 
 ## Drawings Included
+# Dimention Mechanical Part
 - Keyway shaft drawing
 - Flange with bolt drawing
 - Fully dimensioned plate
 - A3 layout with standard title block
+- Keyway shaft
+- taper shaft
+# Machine component 
+- Bearing Housing
+- Motor mounting plate
+- Clamp
+# section and assembly Drawing 
+- Half Section View
+- Full Section View
+- Shaft and bearing assembly 
 
 ## Software Used
 - AutoCAD
