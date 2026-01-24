@@ -9,6 +9,7 @@ as part of my BTech Mechanical Engineering practice.
 - Flange with bolt drawing
 - Fully dimensioned plate
 - A3 layout with standard title block
+- A4 layout
 - Keyway shaft
 - taper shaft
 # Machine component 
@@ -18,7 +19,7 @@ as part of my BTech Mechanical Engineering practice.
 # section and assembly Drawing 
 - Half Section View
 - Full Section View
-- Shaft and bearing assembly 
+- bearing assembly 
 
 ## Software Used
 - AutoCAD
